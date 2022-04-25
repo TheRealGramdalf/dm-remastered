@@ -3,7 +3,7 @@ dm.
 A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [Dream Machine](https://github.com/Lindstream/dm-refind-theme).
 ----
 **Screenshot**
-![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
+![M](https://github.com/TheRealGramdalf/dm-remastered/blob/master/screenshot.png)
 
 Recolored in purple - using gimp. If you want to make your own version, it is a bit tedious, but [this link](https://daviesmediadesign.com/quickly-change-colors-in-a-photo-with-this-gimp-tool-article-version/) should make it a breeze. Also open to requests, if I have time - just make an issue.
 
